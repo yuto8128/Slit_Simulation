@@ -1,0 +1,4 @@
+name = "Slit_sim"
+uuid = "3e73f08a-dfd4-429d-b7be-66681dc9c62a"
+authors = ["DaisukeKogure <kogure.d.816@ms.saitama-u.ac.jp>"]
+version = "0.1.0"
